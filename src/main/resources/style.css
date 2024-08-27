@@ -1,0 +1,14 @@
+.card-style {
+    -fx-border-color: black;
+    -fx-border-width: 2;
+    -fx-padding: 10 20;
+    -fx-border-radius: 3;
+    -fx-background-color: white;
+    -fx-background-radius: 3;
+    -fx-font-family: Helvetica;
+    -fx-font-size: 14;
+}
+.background {
+    -fx-background-color:dark #235623;
+}
+
